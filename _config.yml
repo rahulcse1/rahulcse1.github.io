@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Hello World - Amarjeet Chauhan
+title: Amarjeet Chauhan
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Amrjeet Chauhan's personal blog!
 
 # --- Navigation bar options --- #
 
@@ -72,17 +72,17 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "rahulcse1@gmail.com"
+  facebook: curious.amarc
+  github: rahulcse1
+  twitter: rahulcse1
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: rahulcse1
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: curious.amarc
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -96,6 +96,7 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
