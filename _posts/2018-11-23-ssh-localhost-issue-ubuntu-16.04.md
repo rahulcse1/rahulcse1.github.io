@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ssh localhost issue on Ubuntu 16.04 
-image: /img/hello_world.jpeg
 ---
 
 ssh localhost issue on Ubuntu 16.04 
