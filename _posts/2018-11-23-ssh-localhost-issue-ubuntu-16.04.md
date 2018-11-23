@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ssh localhost issue on Ubuntu 16.04 
-tags: [hadoop,ssh,ubuntu16.04]
+tags: [hadoop, ssh, ubuntu16.04]
 ---
 
 ssh localhost issue on Ubuntu 16.04 
