@@ -5,7 +5,7 @@ subtitle: The Timeline
 ---
 
 Amarjeet Chauhan, from Mumbai India. I am a software engineer, working from last 8 years. 
-Love technology and never afraid to try or learn things .. I am intreseted in 
+Love technology and never afraid to try or learn things .. I am interested in 
 
 - Machine Learning
 - Artificial Intelligence
