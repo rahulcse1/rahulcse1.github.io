@@ -11,6 +11,7 @@ There are lot of plotting library but Matplotlib is one of my favourite lib when
 
 Let's draw a small figure before we go in depth : 
 
+{: .box-note}
 # Import the necessary packages and modules
 import matplotlib.pyplot as plt
 import numpy as np
@@ -20,10 +21,7 @@ x = np.linspace(0, 10, 50)
 
 # Plot the data
 plt.plot(x, x, label='linear graph')
-
 plt.legend()
 
 # Show the plot - important 
 plt.show()
-
-
