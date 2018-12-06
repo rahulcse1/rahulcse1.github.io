@@ -31,8 +31,8 @@ Output -
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-We jave jsut created a simple graph. The beauty of Matplotlib is that it can be customize 100%. We can add label, legend, title, fontsize etc. Let's modify our grapgh and add some basic features - 
-Whatever you want to customize, it must be add before the show() function call.
+We have jsut created a simple graph. The beauty of Matplotlib is that it can be customize 100%. We can add label, legend, title, fontsize etc. Let's modify our grapgh and add some basic features - 
+Whatever you want to customize, it must be added before the show() function call.
 
 ```
 import matplotlib.pyplot as plt
