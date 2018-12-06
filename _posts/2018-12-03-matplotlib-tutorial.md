@@ -11,7 +11,7 @@ There are lot of plotting library but Matplotlib is one of my favourite lib when
 
 Let's draw a small figure before we go in depth : 
 
-{: .box-note}
+```
 # Import the necessary packages and modules
 import matplotlib.pyplot as plt
 import numpy as np
@@ -25,3 +25,4 @@ plt.legend()
 
 # Show the plot - important 
 plt.show()
+```
