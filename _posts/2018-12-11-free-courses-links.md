@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My Links
+title: Free Data Science courses, one must go through
 tags: [link]
 ---
 
-Free courses - 
+Free Data Science courses, one must go through - 
 
 [Practical Reinforcement Learning](https://github.com/yandexdataschool/Practical_RL)
 
