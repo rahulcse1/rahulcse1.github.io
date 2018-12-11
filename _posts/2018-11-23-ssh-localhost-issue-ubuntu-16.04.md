@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ssh localhost issue on Ubuntu 16.04 
+title: SSH localhost issue on Ubuntu 16.04 
 tags: [hadoop, ssh, ubuntu16.04]
 ---
 
-ssh localhost issue on Ubuntu 16.04 
+SSH localhost issue on Ubuntu 16.04 
 
 Recently I installed ubuntu 16.04 for my Hadoop work. Running hadoop asks you enter password 3 times. to the disabled password from entering multiple times, I was using ssh like below -
 
