@@ -6,7 +6,9 @@ tags: [scikit_learn, deeplearning4j, tensorflow, spark_mlib, keras, pytorch, caf
 
 ## Machine Learning Library you must check out
 
-There are some lesser known python libraries but very useful. Below are the list of thise library
+**1.[Tensorflow](https://www.tensorflow.org/)** 
+
+There are some lesser known python libraries but very useful. Below are the list of those library
 
 **1.[imbalanced-learn](http://imbalanced-learn.org/en/stable/)**
 [github](https://github.com/scikit-learn-contrib/imbalanced-learn)
