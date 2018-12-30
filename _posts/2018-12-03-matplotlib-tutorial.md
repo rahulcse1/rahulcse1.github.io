@@ -29,7 +29,7 @@ plt.show()
 
 Output - 
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](https://raw.githubusercontent.com/rahulcse1/tw-images/master/matplotlib/simple-graph.PNG)
 
 We have jsut created a simple graph. The beauty of Matplotlib is that it can be customize 100%. We can add label, legend, title, fontsize etc. Let's modify our grapgh and add some basic features - 
 Whatever you want to customize, it must be added before the show() function call.
@@ -50,5 +50,5 @@ plt.show()
 
 Not output would be like below - 
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](https://raw.githubusercontent.com/rahulcse1/tw-images/master/matplotlib/customized-graph.PNG)
 
