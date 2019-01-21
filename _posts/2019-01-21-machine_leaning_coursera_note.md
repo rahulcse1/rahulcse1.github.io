@@ -31,3 +31,6 @@ Linear regression h(x) = θ0 + θ1x
   - cost fundtion will let us figure out the best possible staright line to our data.
   - choosing best possible thera values 
   - we have to choose the value of θ0 and θ1 in such a way for given dataset that value of h(x) value we predict on input x is close to the value of y.
+
+#Gradient Descent: Algorithm to used to minimizing cost function
+  
