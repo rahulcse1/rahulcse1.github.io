@@ -19,3 +19,6 @@ Free Data Science courses, one must go through -
 [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
 
 [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+[Google AI](https://ai.google/education/)
+
