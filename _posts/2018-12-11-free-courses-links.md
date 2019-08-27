@@ -22,3 +22,4 @@ Free Data Science courses, one must go through -
 
 [Google AI](https://ai.google/education/)
 
+https://www.coursera.org/collections/best-machine-learning-ai
